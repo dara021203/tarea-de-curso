@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\bin\Debug\net5.0\Prestamo.Domain.deps.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\bin\Debug\net5.0\Prestamo.Domain.runtimeconfig.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\bin\Debug\net5.0\Prestamo.Domain.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\bin\Debug\net5.0\Prestamo.Domain.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\bin\Debug\net5.0\ref\Prestamo.Domain.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\bin\Debug\net5.0\Prestamo.Domain.pdb
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\ref\Prestamo.Domain.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.pdb
+C:\Users\Admin\source\repos\Prestamos sa\Prestamo.Domain\obj\Debug\net5.0\Prestamo.Domain.genruntimeconfig.cache

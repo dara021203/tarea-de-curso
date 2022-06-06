@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\bin\Debug\net5.0\Prestamos.Appcore.deps.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\bin\Debug\net5.0\Prestamos.Appcore.runtimeconfig.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\bin\Debug\net5.0\Prestamos.Appcore.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\bin\Debug\net5.0\Prestamos.Appcore.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\bin\Debug\net5.0\ref\Prestamos.Appcore.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\bin\Debug\net5.0\Prestamos.Appcore.pdb
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\ref\Prestamos.Appcore.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.pdb
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Appcore\obj\Debug\net5.0\Prestamos.Appcore.genruntimeconfig.cache

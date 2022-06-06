@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\bin\Debug\net5.0\Prestamos.Infraestructure.deps.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\bin\Debug\net5.0\Prestamos.Infraestructure.runtimeconfig.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\bin\Debug\net5.0\Prestamos.Infraestructure.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\bin\Debug\net5.0\Prestamos.Infraestructure.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\bin\Debug\net5.0\ref\Prestamos.Infraestructure.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\bin\Debug\net5.0\Prestamos.Infraestructure.pdb
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\ref\Prestamos.Infraestructure.dll
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.pdb
+C:\Users\Admin\source\repos\Prestamos sa\Prestamos.Infraestructure\obj\Debug\net5.0\Prestamos.Infraestructure.genruntimeconfig.cache
